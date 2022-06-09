@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-tiny-lisp
+project: tiny-lisp
 target: tiny-lisp
 
 cmds:
-  - cmd: /repo/tiny-lisp @@
+  - cmd: /repo/tiny-lisp /test.lisp
     filepath: /test.lisp
