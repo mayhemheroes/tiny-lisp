@@ -2,5 +2,4 @@ project: tiny-lisp
 target: tiny-lisp
 
 cmds:
-  - cmd: /repo/tiny-lisp /test.lisp
-    filepath: /test.lisp
+  - cmd: /install/bin/tiny-lisp @@
